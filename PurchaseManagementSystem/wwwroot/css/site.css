@@ -1,0 +1,51 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: beige;
+}
+.container-fluid {
+    background: grey;
+    height: 60px;
+}
+.navbar{
+    padding:0 !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+.nav-item:hover{
+    background:white;
+
+    border-radius:10px;
+}
+ .jumbotron{
+padding-bottom:0.5rem;
+ }
+.custom-Image{
+    width:100%;
+}
+.custom-pms {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    // remove the gap so it doesn't close
+}
