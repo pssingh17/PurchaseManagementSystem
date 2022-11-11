@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace PurchaseManagementSystem.Models
+﻿namespace PurchaseManagementSystem.Models
 {
- 
-    public class Item
+    public class Purchase
     {
-
         public int ID { get; set; }
         public string? ItemName { get; set; }
 

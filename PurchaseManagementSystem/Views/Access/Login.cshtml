@@ -12,7 +12,8 @@
     <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
 </head>
 <body>
-    <form asp-controller="Access" asp-action="Login" method="post">
+    <div class="login-container">
+    <form class="login-container-child" asp-controller="Access" asp-action="Login" method="post">
         <h1 style="text-align:center">Admin Login</h1>
         <div class="container">
         <input class="custom-field" type="email" placeholder="Email" asp-for="Email" />
@@ -32,5 +33,6 @@
         }
         </div>
     </form>
+    </div>
 </body>
 </html>

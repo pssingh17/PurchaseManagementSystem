@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj": {}
+    "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj": {
+    "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
         "projectName": "PurchaseManagementSystem",
-        "projectPath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
+        "projectPath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
         "packagesPath": "C:\\Users\\PS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PS\\AppData\\Roaming\\NuGet\\NuGet.Config",

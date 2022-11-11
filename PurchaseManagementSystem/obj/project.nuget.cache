@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thQ0siTzQF8aT5RxsfHZ2IrfUXT0nw7kSUJIqZyGXFGOujUZHJkWSeWiGr8cRfwMAcnfVY17Khqnu97i2U+X+g==",
+  "dgSpecHash": "/JdyO+k7tSzvsSHdxiKjICdcyakvDU18jNHjIRFLoNh48I9rvNO8zTWIYAj+tQavdpUo3vK2oYCoFN1l4G9UFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\PurchaseManagementSystem\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\PS\\Desktop\\ESDV folder\\Asp.net\\FinalProject\\7-11 dropdown\\PurchaseManagementSystem\\PurchaseManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PS\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

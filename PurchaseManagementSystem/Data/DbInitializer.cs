@@ -20,8 +20,8 @@ namespace PurchaseManagementSystem.Data
 
             var items = new Item[]
             {
-            new Item{ItemName="Mouse", Availability=Availability.Out_Of_Stock, Price= 200},
-            new Item{ItemName="Keyboar", Availability = Availability.In_Stock,Price = 100},
+            new Item{ItemName="Mouse", Availability= 0, Price= 200},
+            new Item{ItemName="Keyboar", Availability = 1,Price = 100},
 
             };
             foreach (Item i in items)

@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Item Inventory</h1>
+<h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Add New Item</a>
+    <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
     <thead>
@@ -31,11 +31,19 @@
                 @Html.DisplayFor(modelItem => item.ItemName)
             </td>
             <td>
-               $ @Html.DisplayFor(modelItem => item.Price)
+                @Html.DisplayFor(modelItem => item.Price)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Availability)
+            @if(item.Availability == 1){
+             <td>
+               In Stock
             </td>
+            }
+             @if(item.Availability == 0){
+             <td>
+               Out Of Stock
+            </td>
+            }
+            
             <td>
                 <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.ID">Details</a> |

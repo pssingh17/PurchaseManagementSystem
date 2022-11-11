@@ -24,7 +24,11 @@ namespace PurchaseManagementSystem.Controllers
         {
               return View(await _context.Items.ToListAsync());
         }
-
+        //Items Report
+        public async Task<IActionResult> ItemsReport()
+        {
+            return View(await _context.Items.ToListAsync());
+        }
         // GET: Items/Details/5
         public async Task<IActionResult> Details(int? id)
         {

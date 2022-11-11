@@ -8,61 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PurchaseManagementSystem
 build_property.RootNamespace = PurchaseManagementSystem
-build_property.ProjectDir = C:\Users\PS\Desktop\ESDV folder\Asp.net\FinalProject\PurchaseManagementSystem\PurchaseManagementSystem\
+build_property.ProjectDir = C:\Users\PS\Desktop\ESDV folder\Asp.net\FinalProject\7-11 dropdown\PurchaseManagementSystem\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PS\Desktop\ESDV folder\Asp.net\FinalProject\PurchaseManagementSystem\PurchaseManagementSystem
+build_property.MSBuildProjectDirectory = C:\Users\PS\Desktop\ESDV folder\Asp.net\FinalProject\7-11 dropdown\PurchaseManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Access/Login.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Access/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Home/Index.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Home/Privacy.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Items/Create.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Items/Delete.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Items/Details.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Items/Edit.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Items/Index.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Shared/Error.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Items/ItemsReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSXRlbXNSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/_ViewImports.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/_ViewStart.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/PurchaseManagementSystem/PurchaseManagementSystem/Views/Shared/_Layout.cshtml]
+[C:/Users/PS/Desktop/ESDV folder/Asp.net/FinalProject/7-11 dropdown/PurchaseManagementSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7a6hkqrc7x
